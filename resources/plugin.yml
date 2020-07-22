@@ -1,0 +1,4 @@
+main: fr.dubslime.over2craft.freebuildcore.Main
+name: Over2Craft-Freebuild-Core
+version: "1.0.0"
+description: Various functionalities for Over2Craft
