@@ -1,0 +1,9 @@
+name: Over2CraftFreebuildCore
+main: fr.dubslime.over2craft.freebuildcore.Main
+version: 1.0.0
+description: Various functionalities for Over2Craft
+commands:
+  freecore:
+    description: Over2Craft Freebuild Core command
+    usage: /<command>
+    permission: freecore.admin
